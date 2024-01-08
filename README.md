@@ -1,6 +1,6 @@
-# laundry_service_app
+# laundry_service_app(*** Not Completed)
 
-A new Flutter project.
+A new Flutter project.(**few pages which are completed are shown bellow)
 
 <img width="3269" alt="Frame 1" src="https://github.com/Sutanu1234/app_1/assets/123285380/dde848f0-5a73-474d-9920-bda33cda7764">
 <br>
